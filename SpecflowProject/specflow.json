@@ -1,0 +1,9 @@
+{
+  "$schema": "https://specflow.org/specflow-config.json",
+  "language": {
+    "feature": "pt-BR"
+  },
+  "bindingCulture": {
+    "name": "pt-BR"
+  }
+}
