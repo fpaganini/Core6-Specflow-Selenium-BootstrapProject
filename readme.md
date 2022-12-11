@@ -1,4 +1,6 @@
-﻿# Page Object Model
+[![.NET](https://github.com/fpaganini/Core6-Specflow-Selenium-BootstrapProject/actions/workflows/dotnet.yml/badge.svg)](https://github.com/fpaganini/Core6-Specflow-Selenium-BootstrapProject/actions/workflows/dotnet.yml)
+
+# Page Object Model
 ![picture 4](images/387a1a69d9528f2dc5029623612b5b7cfda03beabb778e818eee9a1e2550f2a9.png)  
 
 O modelo de Page Object é utilizado para separar os elementos que representam uma página a ser testada, aprimorando a organização e manutenção dos testes.
@@ -32,7 +34,7 @@ public class LoginPageObject
 }
 ```
 
-## Cahe na captura dos elementos
+## Cache na captura dos elementos
 
 ```c#
 
@@ -130,7 +132,7 @@ O Driver Pattern é a criação de uma camada adicional entre as definições do
 
 ![picture 3](images/a86246a56cea03f1381baaf461ff3b2ed90db923057f5964efbf018387bf2f0b.png)  
 
-Mais informaçõpes:
+Mais informações:
 
 [Driver Pattern - Specflow Official Docs](https://docs.specflow.org/projects/specflow/en/latest/Guides/DriverPattern.html)
 
